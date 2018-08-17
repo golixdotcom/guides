@@ -1,4 +1,4 @@
-## How To Deposit Kenyan Shilling (Kes) On Golix
+## How To Deposit Kenyan Shilling (KES) On Golix
 
 Assuming that you are  already **Logged In** your Golix Account.
 
