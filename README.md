@@ -1,6 +1,6 @@
 ## How To Deposit Kenyan Shilling (Kes) On Golix
 
-Assuming that you are  already **Logged In ** your Golix Account.
+Assuming that you are  already **Logged In** your Golix Account.
 
 - Go to your KES Wallet.
 - Fill in the amount that you want to deposit.
