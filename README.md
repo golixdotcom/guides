@@ -4,5 +4,7 @@
 
 - How to [Deposit NGN](./tutorials/NGN.md) Nigerian Naira
 
-- How to [Deposit UGX](./Tutorials/UGX.MD) Ugandan Shilling
+- How to [Deposit UGX](./Tutorials/UGX.md) Ugandan Shilling
+
+- How to [Deposit XAF](./Tutorials/XAF.md) Central African CFA
 
