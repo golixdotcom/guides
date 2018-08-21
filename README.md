@@ -4,5 +4,5 @@
 
 - How to [Deposit NGN](./tutorials/NGN.md) Nigerian Naira
 
-- How to [Deposit UGX](./Tutorials/UGX.MD) Ugandian Shilling
+- How to [Deposit UGX](./Tutorials/UGX.MD) Ugandan Shilling
 
