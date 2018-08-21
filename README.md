@@ -8,3 +8,5 @@
 
 - How to [Deposit XAF](./Tutorials/XAF.md) Central African CFA
 
+- How to [Deposit TZS](./Tutorials/TZS.md)  Tanzanian Shilling
+
