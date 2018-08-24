@@ -21,6 +21,15 @@ Rules to create a Tutorial
 11. The file name of an email attachment should include the name of the correspondent, an indication of the subject, the date of the correspondence, ‘attch’, and an indication of the number of attachments sent with the covering email, except where the inclusion of any of these elements would be incompatible with rule 2.
 12. The version number of a record should be indicated in its file name by the inclusion of ‘d’ followed by the version number and, where applicable, ‘d’ indicating ‘draft version’.
 13. Avoid using non-alphanumeric characters in file names.
+
+#Examples of how to Name Tutorials
+
+- WhatIsCryptocurrency?
+- HistoryOfMoney
+- HowToPlaceaLimitOrderOnGolix?
+- HowToCancelPendingOrderOnGolix?
+- WhatIsAnOrderbook?
+-
  
 
 
