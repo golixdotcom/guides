@@ -22,7 +22,7 @@ Rules to create a Tutorial
 12. The version number of a record should be indicated in its file name by the inclusion of ‘d’ followed by the version number and, where applicable, ‘d’ indicating ‘draft version’.
 13. Avoid using non-alphanumeric characters in file names.
 
-# Examples of how to Name Tutorials
+# Examples On How To Name Tutorials
 
 - WhatIsCryptocurrency
 - HistoryOfMoney
