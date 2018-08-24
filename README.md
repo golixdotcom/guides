@@ -24,11 +24,11 @@ Rules to create a Tutorial
 
 # Examples of how to Name Tutorials
 
-- WhatIsCryptocurrency?
+- WhatIsCryptocurrency
 - HistoryOfMoney
-- HowToPlaceALimitOrderOnGolix?
-- HowToCancelPendingOrderOnGolix?
-- WhatIsAnOrderBook?
+- HowToPlaceALimitOrderOnGolix
+- HowToCancelPendingOrderOnGolix
+- WhatIsAnOrderBook
 
  
 
