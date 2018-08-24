@@ -28,7 +28,7 @@ Rules to create a Tutorial
 - HistoryOfMoney
 - HowToPlaceALimitOrderOnGolix?
 - HowToCancelPendingOrderOnGolix?
-- WhatIsAnOrderbook?
+- WhatIsAnOrderBook?
 -
  
 
