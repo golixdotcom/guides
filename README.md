@@ -26,7 +26,14 @@ Rules to create a Tutorial
 - HowToCancelPendingOrderOnGolix
 - WhatIsAnOrderBook
 
- 
+## Example 1:
+- You want to contribute  a tutorial with the title **“What is cryptocurrency”**. This is how you do it:
+- The name of the file should be Cryptocurrency.ascii
+- The file should be in the folder called **Tutorials** and that folder should be in the path called **TradeDetails**.
+- The full path of the tutorial should therefore  be **Tutorials/Tradedetails/CryptoCurrency.asciidoc**.
+
+## Example 2
+The idea is to give an actual example of how to use the convention that you recommended for someone who is contributing a tutorial 
 
 
 
