@@ -31,7 +31,7 @@ The other Tutorials will be named as follows:-
  - History of Money will be **Tutorials/TradeDetails/HistoryOfMoney.asciidoc**.
  - How to place a limit order on Golix will be **Tutorials/TradeDetails/PlacingLimitOrderOnGolix.asciidoc**.
  - How to cancel a pending order on Golix will be  **Tutorials/TradeDetails/CancelPendingOrderOnGolix.asciidoc**.
- - What is an orderbook will be **Orderbook/TradeDetails/Orderbook.asciidoc
+ - What is an orderbook will be **Orderbook/TradeDetails/Orderbook.asciidoc**
 
 
 
