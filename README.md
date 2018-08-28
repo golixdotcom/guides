@@ -20,20 +20,18 @@ Rules to create a Tutorial
 
 # Examples On How To Name Tutorials
 
-- WhatIsCryptocurrency
-- HistoryOfMoney
-- HowToPlaceALimitOrderOnGolix
-- HowToCancelPendingOrderOnGolix
-- WhatIsAnOrderBook
-
 ## Example 1:
 - You want to contribute  a tutorial with the title **“What is cryptocurrency”**. This is how you do it:
 - The name of the file should be Cryptocurrency.ascii
 - The file should be in the folder called **Tutorials** and that folder should be in the path called **TradeDetails**.
 - The full path of the tutorial should therefore  be **Tutorials/Tradedetails/CryptoCurrency.asciidoc**.
 
-## Example 2
-The idea is to give an actual example of how to use the convention that you recommended for someone who is contributing a tutorial 
+The other Tutorials will be named as follows:-
+
+ - History of Money will be **Tutorials/TradeDetails/HistoryOfMoney.asciidoc**.
+ - How to place a limit order on Golix will be **Tutorials/TradeDetails/PlacingLimitOrderOnGolix.asciidoc**.
+ - How to cancel a pending order on Golix will be  **Tutorials/TradeDetails/CancelPendingOrderOnGolix.asciidoc**.
+ - What is an orderbook will be **Orderbook/TradeDetails/Orderbook.asciidoc
 
 
 
