@@ -43,8 +43,8 @@ Special characters such as  ~ ! @ # $ % ^ & * ( ) ' ; < > ? , [ ] { } ‘ ” an
 The other Tutorials will be named as follows:-
 
  - History of Money will be **Tutorials/HistoryOfMoney.asciidoc**.
- - How to place a limit order on Golix will be **Tutorials/PlacingLimitOrderOnGolix.asciidoc**.
- - How to cancel a pending order on Golix will be  **Tutoria/CancelPendingOrderOnGolix.asciidoc**.
+ - How to place a limit order on Golix will be **Tutorials/PlacingLimitOrder.asciidoc**.
+ - How to cancel a pending order on Golix will be  **Tutoria/CancelPendingOrder.asciidoc**.
  - What is an orderbook will be **Tutorials/Orderbook.asciidoc**
 
 
