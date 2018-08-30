@@ -19,12 +19,10 @@ Shortening the year to 2 numbers
 Abbreviate file name components
 Use as few words as possible to convey the identity of the document
 
-4. Avoid special characters and spaces
-Special characters such as  ~ ! @ # $ % ^ & * ( ) ' ; < > ? , [ ] { } ‘ ” and | should be avoided.
+4. Avoid special characters and spacesSpecial characters such as  ~ ! @ # $ % ^ & * ( ) ' ; < > ? , [ ] { } ‘ ” and | should   be avoided.
   Do not use spaces. Some software will not recognize file names with spaces. Use these alternatives instead:
   Underscores (e.g. file_name.xxx)
   Camelcase, where the first letter of each section of text is capitalized (e.g. FileName.xxx)
- Avoid unnecessary repetition and redundant words in file names and file paths.
 4. When including a number in a file name always give it as a two-digit number rather than one, i.e. 01, 02 … 99, unless it is a year or another number with more than two digits
 6. Order the elements in a file name in the most appropriate way to retrieve the record.
 7. The file names of records relating to recurring events should include the date and a description of the event, except where the inclusion of any of either of these elements would be incompatible with rule 2.
