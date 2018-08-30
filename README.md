@@ -9,7 +9,6 @@ The **goal** of this Section is to guide anyone on how to contribute to Tutorial
 Rules to create a Tutorial 
  
 1. Start your filename with the most important parameter component.
-2. Use relevant components in your filename to provide description and context Filenames should contain the essential elements of each file.
 
 2. Use relevant components in your filename to provide description and context
 The filename should contain the essential elements of each file, dependent upon what is suitable for your retrieval needs. File names should outlast the records creator who originally named the file, so think about what information would be helpful to someone in 15 years.
