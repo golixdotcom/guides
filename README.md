@@ -33,4 +33,4 @@
 
 
 
-[How to deposit (XDX)](./Tutorials/Wallets/FiatDeposits/NGN.asciidoc)
+[Guidelines on how to submit a Tutorial ](./Guidelines.asciidoc)
