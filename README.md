@@ -32,4 +32,4 @@
 
 
 
-[Guidelines on how to submit a Tutorial ](./Guidelines.asciidoc)
+[Guidelines on how to submit a Tutorial ](./Guidelines.md)
