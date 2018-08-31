@@ -3,13 +3,13 @@
 
 [How to deposit NGN (Nigerian Naira)](./Tutorials/Wallets/FiatDeposits/NGN.md)
 
-[How to deposit  KES (Kenyan Shilling)](./Tutorials/Wallets/FiatDeposits/KES.asciidoc)
+[How to deposit  KES (Kenyan Shilling)](./Tutorials/Wallets/FiatDeposits/KES.md)
 
-[How to deposit  UGX (Ugandan  Shilling )](./Tutorials/Wallets/FiatDeposits/UGX.asciidoc)
+[How to deposit  UGX (Ugandan  Shilling )](./Tutorials/Wallets/FiatDeposits/UGX.md)
 
-[How to deposit  RWF (Rwandan Franc) ](./Tutorials/Wallets/FiatDeposits/RWF.asciidoc)
+[How to deposit  RWF (Rwandan Franc) ](./Tutorials/Wallets/FiatDeposits/RWF.md)
 
-[How to deposit XAF  (African Financial Community Franc)](./Tutorials/Wallets/FiatDeposits/XAF.asciidoc)
+[How to deposit XAF  (African Financial Community Franc)](./Tutorials/Wallets/FiatDeposits/XAF.md)
 
 
 
