@@ -41,3 +41,5 @@ The other Tutorials will be named as follows:-
  - How to place a limit order on Golix will be **Tutorials/PlacingLimitOrder.asciidoc**.
  - How to cancel a pending order on Golix will be  **Tutoria/CancelPendingOrder.asciidoc**.
  - What is an orderbook will be **Tutorials/Orderbook.asciidoc**
+
+[Home](/)
