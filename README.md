@@ -5,11 +5,11 @@
 
 [How to deposit  KES (Kenyan Shilling)](./Tutorials/Wallets/FiatDeposits/KES.asciidoc)
 
-[How to deposit  UGX (Ugandan  )](./Tutorials/Wallets/FiatDeposits/UGX.asciidoc)
+[How to deposit  UGX (Ugandan  Shilling )](./Tutorials/Wallets/FiatDeposits/UGX.asciidoc)
 
-[How to deposit  RWF Rwandan )](./Tutorials/Wallets/FiatDeposits/RWF.asciidoc)
+[How to deposit  RWF (Rwandan Franc) ](./Tutorials/Wallets/FiatDeposits/RWF.asciidoc)
 
-[How to deposit (XDX)](./Tutorials/Wallets/FiatDeposits/XDX.asciidoc)
+[How to deposit XAF  (African Financial Community Franc)](./Tutorials/Wallets/FiatDeposits/XAF.asciidoc)
 
 
 
