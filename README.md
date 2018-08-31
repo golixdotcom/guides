@@ -1,7 +1,7 @@
 # Tutorials on Golix
 
 
-[How to deposit NGN (Nigerian Naira)](./Tutorials/Wallets/FiatDeposits/NGN.asciidoc)
+[How to deposit NGN (Nigerian Naira)](./Tutorials/Wallets/FiatDeposits/NGN.md)
 
 [How to deposit  KES (Kenyan Shilling)](./Tutorials/Wallets/FiatDeposits/KES.asciidoc)
 
