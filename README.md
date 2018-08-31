@@ -2,6 +2,16 @@
 
 ## Introduction
 
+[How to deposit NGN (Nigerian Naira)](./Tutorials/Wallets/FiatDeposits/NGN.asciidoc)
+
+[How to deposit  KES (Kenyan Shilling)](./Tutorials/Wallets/FiatDeposits/KES.asciidoc)
+
+[How to deposit  UGX (Ugandan  )](./Tutorials/Wallets/FiatDeposits/NGN.asciidoc)
+
+[How to deposit  RWF Rwandan )](./Tutorials/Wallets/FiatDeposits/NGN.asciidoc)
+
+[How to deposit (XDX)](./Tutorials/Wallets/FiatDeposits/NGN.asciidoc)
+
 A framework of naming files  and describing what they contain and how they relate to other files. File Naming Conventions is done through identifying the key elements of the Tutorials  and the important differences and commonalities.
 
 The **goal** of this Section is to guide anyone on how to contribute to Tutorials.
