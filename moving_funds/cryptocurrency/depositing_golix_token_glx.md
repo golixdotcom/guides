@@ -1,0 +1,1 @@
+# Depositing Golix Token (glx)

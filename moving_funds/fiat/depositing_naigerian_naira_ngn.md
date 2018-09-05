@@ -1,8 +1,8 @@
-# How To Deposit XAF on Golix.
+# Depositing Naigerian Naira (NGN)
 
 Assuming that you are already **Logged In** your Golix account.
 
--   Go to the Wallets drop down menu and select the XAF wallet.
+-   Go to the Wallets drop down menu and select the NGN wallet.
 -   Fill in the amount that you want to deposit.
 -   Click on the purple tab written  **Checkout with DusuPay**
 -   Select your Payment Option from the list on the down arrow.
