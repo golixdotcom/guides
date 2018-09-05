@@ -1,1 +1,7 @@
 theme: jekyll-theme-leap-day
+url: "https://guides.golix.com"
+plugins:
+  - jekyll-sitemap
+title: "Golix | Guides"
+description: "Africa's cryptocurrency exchange"
+google_analytics: "UA-110689323-3"

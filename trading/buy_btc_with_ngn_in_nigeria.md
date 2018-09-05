@@ -1,1 +1,1 @@
-# How to buy bitcoin (BTC) with Naigerian Naira (NGN) in Nigeria
+# How to buy bitcoin (BTC) with Nigerian Naira (NGN) in Nigeria
