@@ -1,4 +1,4 @@
-# Depositing South African Rand
+# Depositing South African Rand on Golix
 
 Assuming that you are already **Logged In** your Golix account.
 
