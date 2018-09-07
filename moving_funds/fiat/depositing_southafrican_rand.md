@@ -5,6 +5,9 @@ Assuming that you are already **Logged In** your Golix account.
 -   Firstly select the South African market by selecting the  SA flag from the down arrow.
 -   Go to the **Wallets** drop down menu and select the **ZAR wallet**.
 -   Select **Deposit via Bank Transfer**
+
+    ![Select Deposit Via Bank] ({{ site.url }}/images/moving_funds/depositing_southafrican_rand/deprands018-09-07 18-57-21.png)
+    
 -   Fill in your details on the deposit form and click **Submit**
 -   A message box pops up with Golix Banking details that you will use to send your funds. OR
 -   Click on the purple tab written  **Checkout with DusuPay**  
