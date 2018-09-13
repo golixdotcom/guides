@@ -24,7 +24,7 @@
 
 ### Cryptocurrency
 
-- [Depositing Bitcoin BTC(RWF)](./moving_funds/cryptocurrency/depositing_bitcoin_btc.md)
+- [Depositing Bitcoin BTC](./moving_funds/cryptocurrency/depositing_bitcoin_btc.md)
 - [Depositing Golix Token (GLX)](./moving_funds/cryptocurrency/depositing_golix_token_glx.md)
 
 
