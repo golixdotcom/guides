@@ -1,4 +1,4 @@
-theme: jekyll-theme-golix-guides
+remote_theme: golixdotcom/jekyll-theme-golix-guides
 url: "https://guides.golix.com"
 plugins:
   - jekyll-sitemap
