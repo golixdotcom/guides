@@ -30,7 +30,7 @@
 
 ## The Golix Token
 
-[What is the Golix Token's superpower?](./guides/golix_token_glx/golix_token_glx_superpower.md)
+[What is the Golix Token's superpower?](./golix_token_glx/golix_token_glx_superpower.md)
     
 
 [Submit your own tutorial](./contributing_your_tutorial.md)
