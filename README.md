@@ -21,6 +21,7 @@
 - [Depositing Rwandan Franc (RWF)](./moving_funds/fiat/rwandan_franc_rwf.md)
 - [Depositing South African Rand (ZAR)](./moving_funds/fiat/depositing_south-african_rand.md)
 - [Depositing  Cameroon Central African Franc (XAF)](./moving_funds/fiat/depositing_central_african_franc_xaf.md)
+- [Depositing Ugandan Franc(UGX)](/moving_funds/fiat/depositing_ugandan_franc_ugx.md)
     
 [See more tutorials](./moving_funds/fiat/table_of_contents.md)
 
