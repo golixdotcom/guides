@@ -10,4 +10,4 @@ Assuming that you are  already **Logged In** your Golix Account.
 - Click on Pay and fill in your details as required by the method you selected eg name, telephone number etc.
 - Make sure your deposit appears on the Transaction History in Your Account.
 
-[test](url:https://youtu.be/hqoowhBzb_4)
+[Vedio to deposit Kes](url:https://youtu.be/hqoowhBzb_4)
