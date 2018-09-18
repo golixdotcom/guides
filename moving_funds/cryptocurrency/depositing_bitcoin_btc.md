@@ -9,4 +9,4 @@ Jump into your Golix  account
 - You can scan the QR  Code that represent your BTC address you will still get the same address.
 -  Go ahead and paste in into your other wallet  where you want  to use to send BTC from to Golix.
 - When you send BTC from another wallet to Golix you are **Depositing BTC into you Golix Wallet**
-- **Tip** - the green tab written  **New Address**is only used when you want to generate a new address. If you generate a new address your old address will still be linked to your account.
+- **Tip** - the green tab written  **New Address** is only used when you want to generate a new address. If you generate a new address your old address will still be linked to your account.
