@@ -67,7 +67,7 @@ After successfully creating an account on Golix  you can go the Wallets Page.  E
 ![enter image description here
 ](https://lh3.googleusercontent.com/j9EqciiqtFJ4W3qa-8RqfA2D4FaoKjKrYbWZTce4pjMQ-sp5KgRTERHcOYDHXpdK-1KT0UVdTBQ6)
 
-## Example of a  Bitcoin Adress
+## Example of a  Bitcoin Address
 ![enter image description here
 ](https://lh3.googleusercontent.com/aoydhnVpMCpR39stXmc-sKVJs-XjTAmn-Jlez-1WPqlnsOpEIsHCdJm1FxESrCnWhDLydKGEfSA)
 
