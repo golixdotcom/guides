@@ -7,7 +7,7 @@
 
 ## Trading
 
-- [How to buy bitcoin in South Africa for Rands](./trading/sell_btc_for_zar_in_southafrica.md)
+- [How to buy bitcoin in South Africa for Rands](./trading/buy_btc_for_zar_in_southafrica.md)
 - [How to buy bitcoin in Nigeria with Naira](./trading/buy_btc_with_ngn_in_nigeria.md)
 - [How to sell bitcoin in Nigeria for Naira](./trading/sell_btc_for_ngn_in_nigeria.md)
 - Demystifying the buy/sell page
