@@ -2,7 +2,8 @@
 
 ### Step 1
 Log into your account and select the correct **market**  by choosing the Cameroon Flag from the list as illustrated in the figure below:-
-![enter image description here
+
+![XAF market
 ](https://lh3.googleusercontent.com/Ec_kwg5ezwiPrXg_a3bFYCSjarnjyP3KYppHGvIwnWBa6iRHUjHfISYYPXkzw2ojLar-vJDjz5DE)
 
 ### Step 2  
