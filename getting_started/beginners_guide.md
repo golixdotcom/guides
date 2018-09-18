@@ -15,7 +15,7 @@ In all these countries cryptocurrency can be traded for  fiat that is locally us
 
 Golix is run by an engineer (CEO) as well as a team oh highly experienced personnel in the cryptocurrency space.
 
-## Types of Cryptocurrencies on Golix
+### Types of Cryptocurrencies on Golix
 
  1. GLX - Golix 
  2. BTC - Bitcoin
@@ -31,7 +31,7 @@ Golix is run by an engineer (CEO) as well as a team oh highly experienced person
  12. XDCE - XinFin
  13. XLM - Stellar 
 
-## Types of fiat  on Golix
+### Types of fiat  on Golix
 
  1. ZAR - South African Rand
  2. KES - Kenyan Shilling 
@@ -49,16 +49,16 @@ When you visit Golix  for the first time you need to Sign Up that simply means y
 Golix Home Page ![enter image description here
 ](https://lh3.googleusercontent.com/j78Yop5CVq_srKCuXaTXQL0tFUrYvkLFRN-hdv1uLCQdeIqnYSEPmTZ8ao92-te6Ht9xIqGJyRmo)
 
-## Sign Up
+### Sign Up
 The tab that you need to click when visiting the site fro the first time and you need to  create an account, register  on Golix.
 
-## Log In
+### Log In
 The tab that you use to access your account all the time.
 
-## Blog
+### Blog
 The tab that you use to see Golix  Blog posts, normally important information Golix shares to its customers.
 
-## Help/Support
+### Help/Support
 The tab that you use when you want to contact Golix Support when you need any form of assistance on your account. The channel is via email and they will respond to you via email as well.
 
 # Wallets Page
