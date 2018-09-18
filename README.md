@@ -3,7 +3,7 @@
 ## Getting Started
 
 - [What is Golix](./getting_started/what_is_golix.md)
-- A beginners guide to Golix
+- [A beginners guide to Golix](./getting_started/beginners_guide.md)
 
 ## Trading
 
