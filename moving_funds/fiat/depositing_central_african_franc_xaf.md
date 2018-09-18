@@ -12,6 +12,6 @@ Log into your account and select the correct **market**  by choosing the Cameroo
 ](https://lh3.googleusercontent.com/yRScuq7ibeMp1y4ddRA2odc7hsWlZVRaEKJUfPj2G-NfKhTfTdotpluJXAcXnrk2aTa6h9Rb-s6M)
 
 ### Step 2
-Enter in how much you want to deposit in the input box  under **Amount** and click on the purple tab written ** CHECKOUT WITH DUSUPAY**
+Enter in how much you want to deposit in the input box  under **Amount** and click on the purple tab written **CHECKOUT WITH DUSUPAY**
 
 ### Step 3
