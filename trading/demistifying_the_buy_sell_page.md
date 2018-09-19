@@ -57,4 +57,7 @@ This shows the difference from buying price and selling price.
 
 # Price Charts & Compete trading history
 
+![
+](https://lh3.googleusercontent.com/sayoZLtIRTvXGjj7JBhZo4Smvkbf-LHYH67TYYX1N2EsBd2jzxOkQieRyslWLYjuv8YTQr_lChXd)
+
 You click on the tab and you can see the price chart for and your complete trading history.
