@@ -1,4 +1,4 @@
-                       [Home](./README.md)
+ [Home](./README.md)
 
 # How to Deposit Ugandan Shilling (UGX) on Golix
 ### Step 1
