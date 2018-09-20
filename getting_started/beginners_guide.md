@@ -1,5 +1,6 @@
 
 [Home](./README.md)
+
 # A Beginners Guide on Golix.
 
 As technology is moving  forward that everything is going digital, cryptocurrency  seems to be gaining momentum world wide. It is very important to choose the correct exchange  or trading platform to every person.
@@ -85,3 +86,5 @@ That long text  which is a mixture of letters and numbers is an example of a Bit
  6. All trades on Golix GLX trading pairs will be zero rated,
 
 More details on  Golix [fees](https://golix.com/fees)
+
+[Improve this Tutorial](./golixdotcom/guides/edit/master/getting_started/beginners_guide.md)
