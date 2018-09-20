@@ -1,5 +1,6 @@
+[Home](./README.md)
 
-## Depositing Kenyan Shilling (KES)
+# Depositing Kenyan Shilling (KES)
 
 Assuming that you are  already **Logged In** your Golix Account.
 
