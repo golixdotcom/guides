@@ -1,3 +1,5 @@
+
+[Home](./README.md)
 # A Beginners Guide on Golix.
 
 As technology is moving  forward that everything is going digital, cryptocurrency  seems to be gaining momentum world wide. It is very important to choose the correct exchange  or trading platform to every person.
