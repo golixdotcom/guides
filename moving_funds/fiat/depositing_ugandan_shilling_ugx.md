@@ -1,4 +1,4 @@
-# How to Deposit Ugandan Franc (UGX) on Golix
+# How to Deposit Ugandan Shilling (UGX) on Golix
 ### Step 1
 Log into your account and select the correct **market**  by choosing the Uganda Flag from the list as illustrated in the figure below:-
 
