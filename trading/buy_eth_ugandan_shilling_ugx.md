@@ -1,6 +1,6 @@
 
 ### Step 1 
-Make sure you have a balance on Ugandan  Shilling  in your UGX wallet on Golix.
+Make sure you have a balance of Ugandan  Shilling  in your UGX wallet on Golix.
 [Depositing Ugandan Shilling on Golix](/moving_funds/fiat/depositing_ugandan_shilling_ugx.md). 
 
 ### Step 2
