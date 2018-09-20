@@ -1,4 +1,4 @@
-[Home](/)
+[Home](/README.md)
 
 # How  To Buy Bitcoin (BTC) with Ugandan Shillling in Uganda  
 
