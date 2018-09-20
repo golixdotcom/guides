@@ -1,3 +1,5 @@
+[Home](./README.md)
+
 # What is Golix
 
 Golix is Africa’s leading cryptocurrency exchange. Golix was born out of the frustration from an inability to make online and/or cross-border payments. The cryptocurrency exchange therefore exists to give every person in Africa, Financial Autonomy.
