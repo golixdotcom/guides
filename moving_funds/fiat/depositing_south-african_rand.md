@@ -24,6 +24,7 @@ Capture our Banking Details from the message box that pops up and make sure to t
 
 ## Step 4
 Make a bank transfer from your account to Golix account. Your ZAR wallet will be instantly  credited.
+
 [How to Buy BTC with South African Rand](/trading/buy_btc_with_zar_in_southafrica.md)
 
 
