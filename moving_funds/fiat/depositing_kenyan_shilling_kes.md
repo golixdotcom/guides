@@ -1,4 +1,4 @@
-[Home](./README.md)
+[Home](/)
 
 # Depositing Kenyan Shilling (KES)
 
@@ -12,3 +12,5 @@ Assuming that you are  already **Logged In** your Golix Account.
 - Make sure your deposit appears on the Transaction History in Your Account.
 
 [Vedio to deposit Kes](url:https://youtu.be/hqoowhBzb_4)
+
+[Improve this Turial](https://github.com/golixdotcom/guides/edit/master/moving_funds/fiat/depositing_kenyan_shilling_kes.md)
