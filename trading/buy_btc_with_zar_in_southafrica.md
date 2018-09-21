@@ -1,3 +1,5 @@
+[Home](/)
+
 # How to buy bitcoin (BTC) with South African Rand (ZAR) in South Africa
 
 ## Step 1: Depositing Funds
@@ -15,3 +17,5 @@
 ## Step 4: Place a buy order at the price...
 
 ![Figure 1]({{ site.url }}/images/trading/buy_btc_with_zar_in_southafrica/figure3.png)
+
+[Improve this Tutorial](/https://github.com/golixdotcom/guides/edit/master/trading/buy_btc_with_zar_in_southafrica.md)
