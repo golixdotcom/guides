@@ -1,5 +1,5 @@
 
-[Home](/README.md)
+[Home](/)
 
 # What is the Golix Token'Superpower?
 
