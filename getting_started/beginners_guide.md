@@ -1,5 +1,5 @@
 
-[Home](./README.md)
+[Home](/README.md)
 
 # A Beginners Guide on Golix.
 
@@ -87,4 +87,4 @@ That long text  which is a mixture of letters and numbers is an example of a Bit
 
 More details on  Golix [fees](https://golix.com/fees)
 
-[Improve this Tutorial](./golixdotcom/guides/edit/master/getting_started/beginners_guide.md)
+[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/getting_started/beginners_guide.md)
