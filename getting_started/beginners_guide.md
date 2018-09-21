@@ -1,5 +1,5 @@
 
-[Home](/README.md)
+[Home](/)
 
 # A Beginners Guide on Golix.
 
