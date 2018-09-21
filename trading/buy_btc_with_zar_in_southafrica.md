@@ -4,7 +4,7 @@
 
 ## Step 1: Depositing Funds
 
-[Deposit ZAR into your Golix Account]({{ site.url }}/moving_funds/fiat/depositing_southafrican_rand.html)
+[Deposit ZAR into your Golix Account](/moving_funds/fiat/depositing_south-african_rand.md)
 
 ## Step 2: Visit the buy/sell page
 
