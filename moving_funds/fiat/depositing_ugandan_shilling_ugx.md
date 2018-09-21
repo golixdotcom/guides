@@ -1,4 +1,4 @@
- [Home](./README.md)
+ [Home](/)
 
 # How to Deposit Ugandan Shilling (UGX) on Golix
 ### Step 1
@@ -14,4 +14,6 @@ Log into your account and select the correct **market**  by choosing the Uganda 
 Enter in how much you want to deposit in the input box  under **Amount** and click on the purple tab written ** CHECKOUT WITH DUSUPAY**
 
 ### Step 3
+
+[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/moving_funds/fiat/depositing_ugandan_shilling_ugx.md)
 
