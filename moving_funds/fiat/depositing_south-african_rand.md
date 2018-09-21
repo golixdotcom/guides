@@ -18,6 +18,7 @@
 
 ## Step 3
 Capture our Banking Details from the message box that pops up and make sure to take them correctly.
+
 ![
 ](https://lh3.googleusercontent.com/ZGBGUUDq0b9fci13sEjWFqtbHWW8I7mED7Gd7isQ6dV65T8FWvb1K3i2UW8GIjmvkizPplOdFJy9)
 
