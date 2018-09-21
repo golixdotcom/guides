@@ -1,3 +1,5 @@
+[Home](/)
+
 # Depositing Golix Token (glx)
 ## Step 1
 -Select the GLX wallet from the list of wallets.
@@ -11,4 +13,6 @@
 
 ## Step 3: Use the copied address to your other wallet where you want to take your GLX from and deposit on Golix.
 ## Step 4: Once you send the GLX they will reflect as a balance in your GLX wallet on Golix.
+
+[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/moving_funds/cryptocurrency/depositing_golix_token_glx.md)
 
