@@ -1,4 +1,4 @@
-[Home](/README.md)
+[Home](/)
 
 # How  To Buy Bitcoin (BTC) with Ugandan Shillling in Uganda  
 
@@ -24,3 +24,5 @@ enter image description here](https://lh3.googleusercontent.com/Er7hgmNprFWzoa4t
  4. **Buy BTC** Click on this tab to confirm your purchase.
 
 Your Btc will be credited into your BTC wallet  or else placed as an order on My Pending Orders.
+
+[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/trading/buy_btc_ugandan_shilling_ugx.md)
