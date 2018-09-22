@@ -11,6 +11,8 @@
 - [How to buy bitcoin in Nigeria with Naira](./trading/buy_btc_with_ngn_in_nigeria.md)
 - [How to sell bitcoin in Nigeria for Naira](./trading/sell_btc_for_ngn_in_nigeria.md)
 - [Demystifying the buy/sell page](/trading/demistifying_the_buy_sell_page.md)
+- [How to buy BTC with Ugandan Shilling(UGX](./trading/buy_btc_ugandan_shilling_ugx.md)
+    
 
 ## Moving Funds
 
