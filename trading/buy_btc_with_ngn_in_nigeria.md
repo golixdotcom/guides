@@ -7,12 +7,13 @@ Make sure you have some funds (Nigerian Naira)  in your NGN wallet on Golix. If 
 
 ### Step 2
 Select the Nigeria market from the list as below:-
+
 ![
 ](https://lh3.googleusercontent.com/tNDqQylJBwiB3U6Onj6XeaK8Py2UY8hHiLKUP8bERTT8yj3OM_dLeJxYwuQfbNmhRFYX3HimmwDI)
 
 
 ### Step 3
-Click in the buy sell page
+Click in the buy sell page as shown in the picture below
 ![
 ](https://lh3.googleusercontent.com/04MUq_1Xi1ym-IHKOOy1c7ZrwmY1KGCxZT16OA_p9w80oVqCn0WdSCJZdx98zwVPFwwfDHEhj3QJ)
 
