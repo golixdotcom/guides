@@ -17,8 +17,10 @@ Click in the buy sell page
 ](https://lh3.googleusercontent.com/04MUq_1Xi1ym-IHKOOy1c7ZrwmY1KGCxZT16OA_p9w80oVqCn0WdSCJZdx98zwVPFwwfDHEhj3QJ)
 
 ### Step 4
-![
-](https://lh3.googleusercontent.com/Qf37Turliix8gmyUTYAwsC6pONE7xKvZEM5W50h78chNKqNMnC_a6H39NfuYaTP8_Yy-xMYv9_S6)
+
+![naira
+](https://lh3.googleusercontent.com/qhN03fF09E3DoTY4NEoxf-q-GLALzkwH5aHDN3mj7dE8aTYfTLCv5jCqH4XyO_yPdZAbIthFuY_5)
+
 
  1. **Price** -enter the price you are  willing to buy BTC .
  2. **Volume** - This field is auto filled by the system when you enter how much NGN you will use. 
