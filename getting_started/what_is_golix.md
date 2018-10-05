@@ -1,4 +1,4 @@
-[Home](/)
+[Home](./)
 
 # What is Golix
 
