@@ -1,6 +1,6 @@
 [Home](/)
 
-# How  To Buy Bitcoin (BTC) with Ugandan Shillling in Uganda  
+# Buy Bitcoin (BTC) in Uganda with Ugandan Shillling  
 
 ### Step 1 
 Make sure you have some funds (Ugandan  Shilling)  in your UGX wallet on Golix. If not kindly follow the Tutorial below on instructions to deposit Ugandan Shilling on Golix.
