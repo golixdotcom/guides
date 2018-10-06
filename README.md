@@ -41,8 +41,8 @@
 - [Depositing Tether USDT](./moving_funds/cryptocurrency/depositing_tether_usdt.md)
 - [Depositing XinFin XDCE](./moving_funds/cryptocurrency/depositing_xinfin_xdce.md)
 - [Depositing Zilla ZLA](./moving_funds/cryptocurrency/depositing_zilla_zla.md)
--
-- 
+
+
 
 
 
