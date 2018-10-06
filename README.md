@@ -31,8 +31,8 @@
 
 - [Depositing Bitcoin BTC](./moving_funds/cryptocurrency/depositing_bitcoin_btc.md)
 - [Depositing Golix Token (GLX)](./moving_funds/cryptocurrency/depositing_golix_token_glx.md)
-- [Depositing Bitcoingold BTG ](./moving_funds/cryptocurrency/depositing_bitcoin_gold_btg.md)
-- [Depositing Bitcoicash BCH ](./moving_funds/cryptocurrency/depositing_bitcoincash_bch.md)
+- [Depositing Bitcoin Gold BTG ](./moving_funds/cryptocurrency/depositing_bitcoin_gold_btg.md)
+- [Depositing Bitcoin Cash BCH ](./moving_funds/cryptocurrency/depositing_bitcoincash_bch.md)
 - [Depositing Dala ](./moving_funds/cryptocurrency/depositing_dala.md)
 - [Depositing Dash](./moving_funds/cryptocurrency/depositing_dash.md)
 - [Depositing Litecoin LTC](./moving_funds/cryptocurrency/depositing_litecoin_ltc.md)
