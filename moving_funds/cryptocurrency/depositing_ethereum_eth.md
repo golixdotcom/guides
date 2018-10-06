@@ -3,7 +3,7 @@
 # Depositing Ethereum (ETH) on Golix
 
 Jump into your Golix  account
-- Go to the Wallets page and select the **ETH wallet** from the drop down the list under Select Wallet.
+- Go to the Wallets page and select the **ETH wallet** from the drop down the list under **Select Wallet.**
 
 ![
 ](https://lh3.googleusercontent.com/yfO4EjIePICb3f86aJnV6DWJH3NMegZFeO7NO0Frn5FcXvEj_gnXxA1pta3uk7g110PecJ88jVNS "eth")
