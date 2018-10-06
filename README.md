@@ -31,6 +31,19 @@
 
 - [Depositing Bitcoin BTC](./moving_funds/cryptocurrency/depositing_bitcoin_btc.md)
 - [Depositing Golix Token (GLX)](./moving_funds/cryptocurrency/depositing_golix_token_glx.md)
+- [Depositing Bitcoingold BTG ](./moving_funds/cryptocurrency/depositing_bitcoin_gold_btg.md)
+- [Depositing Bitcoicash BCH ](./moving_funds/cryptocurrency/depositing_bitcoincash_bch.md)
+- [Depositing Dala ](./moving_funds/cryptocurrency/depositing_dala.md)
+- [Depositing Dash](./moving_funds/cryptocurrency/depositing_dash.md)
+- [Depositing Litecoin LTC](./moving_funds/cryptocurrency/depositing_litecoin_ltc.md)
+- [Depositing Rightmesh RMESH](./moving_funds/cryptocurrency/depositing_rightmesh_rmesh.md)
+- [Depositing Stellar Lumens XLM](./moving_funds/cryptocurrency/depositing_stellar_lumens_xlm.md)
+- [Depositing Tether USDT](./moving_funds/cryptocurrency/depositing_tether_usdt.md)
+- [Depositing XinFin XDCE](./moving_funds/cryptocurrency/depositing_xinfin_xdce.md)
+- [Depositing Zilla ZLA](./moving_funds/cryptocurrency/depositing_zilla_zla.md)
+-
+- 
+
 
 
 ## The Golix Token
