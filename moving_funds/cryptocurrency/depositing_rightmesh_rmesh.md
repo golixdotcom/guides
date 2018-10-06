@@ -19,4 +19,4 @@ Jump into your Golix  account
 
 - **Tip** - the green tab written  **New Address** is only used when you want to generate a new address. If you generate a new address your old address will still be linked to your account.
 
-[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/moving_funds/cryptocurrency/depositing_dala.md)
+[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/moving_funds/cryptocurrency/depositing_rightmesh_rmesh.md)
