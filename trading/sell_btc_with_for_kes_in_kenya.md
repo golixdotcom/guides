@@ -15,6 +15,7 @@ Select the Kenya  market from the list as below:-
 
 ### Step 3
 Click in the buy sell page
+
 ![
 ](https://lh3.googleusercontent.com/04MUq_1Xi1ym-IHKOOy1c7ZrwmY1KGCxZT16OA_p9w80oVqCn0WdSCJZdx98zwVPFwwfDHEhj3QJ)
 
