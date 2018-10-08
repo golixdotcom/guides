@@ -1,4 +1,4 @@
-Home(/)
+[Home](/)
 # How to sell bitcoin (BTC) for Central African Frans  (XAF) in Cameroon.
 
 
