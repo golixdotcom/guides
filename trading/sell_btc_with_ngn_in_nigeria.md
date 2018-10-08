@@ -16,9 +16,10 @@ Click in the buy sell page
 
 ![
 ](https://lh3.googleusercontent.com/04MUq_1Xi1ym-IHKOOy1c7ZrwmY1KGCxZT16OA_p9w80oVqCn0WdSCJZdx98zwVPFwwfDHEhj3QJ)
+
 Select the **Sell BTC** option to enter your price.
 
-![enter image description here
+![
 ](https://lh3.googleusercontent.com/KfSZ6idywJCNTRD60EXR_6j9xGVRuEmZajKCct4WGv7T9Y80cczhS6PyioSqjyLASmmNgVEI19QA)
 
 - **Price** - that is where you need to decide the price that you need to sell your btc at e.g. 2 382 487.89 Naira.
