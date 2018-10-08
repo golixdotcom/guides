@@ -1,5 +1,20 @@
-# How to sell bitcoin (BTC) with Nigerian Naira (NGN) in Nigeria
+# How to sell bitcoin (BTC) for Nigerian Naira (NGN) in Nigeria
 
+
+### Step 1 
+Make sure you have cryptocurrencies bitcoin in your BTC  wallet on Golix.
+
+### Step 2
+Select the Nigeria market from the list as below:-
+
+![
+](https://lh3.googleusercontent.com/tNDqQylJBwiB3U6Onj6XeaK8Py2UY8hHiLKUP8bERTT8yj3OM_dLeJxYwuQfbNmhRFYX3HimmwDI)
+
+
+### Step 3
+Click in the buy sell page
+![
+](https://lh3.googleusercontent.com/04MUq_1Xi1ym-IHKOOy1c7ZrwmY1KGCxZT16OA_p9w80oVqCn0WdSCJZdx98zwVPFwwfDHEhj3QJ)
 Select the **Sell BTC** option to enter your price.
 
 ![enter image description here
