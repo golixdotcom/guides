@@ -9,7 +9,7 @@
 
 - [How to buy bitcoin in South Africa for Rands](/trading/buy_btc_with_zar_in_southafrica.md)
 - [How to buy bitcoin in Nigeria with Naira](./trading/buy_btc_with_ngn_in_nigeria.md)
-- [How to sell bitcoin in Nigeria for Naira](./trading/sell_btc_with_ngn_in_nigeria.md)
+- [How to sell bitcoin in Nigeria for Naira](./trading/sell_btc_for_ngn_in_nigeria.md)
 - [Demystifying the buy/sell page](/trading/demistifying_the_buy_sell_page.md)
 - [How to buy Bitcoin with Ugandan Shilling(UGX](./trading/buy_btc_ugandan_shilling_ugx.md)
 - [How to sell bitcoin in South Africa for Rands](./trading/sell_btc_for_southafrican_rand_zar.md)  
