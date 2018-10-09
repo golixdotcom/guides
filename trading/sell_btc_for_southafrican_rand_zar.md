@@ -1,4 +1,4 @@
-
+[Home](/)
 # How to sell bitcoin (BTC) for South African Rands  (ZAR) in South Africa.
 
 
