@@ -35,4 +35,4 @@ Select the **Sell BTC** form where you need to enter relevant details as illustr
 - If you want your BTC to be bought instantly you decide a best price on the market.
 - When a buyer matches your order your Tanzanian Shilling is automatically  credited into your TZS wallet and you can withdraw.
 
-[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/trading/sell_btc_for%20_tzs_in_tanzania.md)
+[Improve this Tutorial](https://github.com/golixdotcom/guides/edit/master/trading/sell_btc_for_tzs_in_tanzania.md)
