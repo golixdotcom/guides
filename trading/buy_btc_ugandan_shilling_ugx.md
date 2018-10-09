@@ -10,6 +10,7 @@ Make sure you have some funds (Ugandan  Shilling)  in your UGX wallet on Golix. 
 ### Step 2
 
 Click in the buy sell page
+
 ![
 ](https://lh3.googleusercontent.com/04MUq_1Xi1ym-IHKOOy1c7ZrwmY1KGCxZT16OA_p9w80oVqCn0WdSCJZdx98zwVPFwwfDHEhj3QJ)
 
