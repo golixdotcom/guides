@@ -6,7 +6,11 @@
 - [A beginners guide to Golix](./getting_started/beginners_guide.md)
 
 ## Trading
+
 - [Demystifying the buy/sell page](/trading/demistifying_the_buy_sell_page.md)
+- [How to buy bitcoin in Rwanda with Rwandan Franc](./trading/buy_btc_in_rwanda_with_rwf.md)
+- [How to buy bicoin in Kenya with Kenyan Shilling](.//trading/buy_btc_in_kenya_with_kes.md)
+- [How to buy bitcoin in Cameroon with Central African Franc](./trading/buy_btc_in_cameroon_with_cfx.md)
 - [How to buy bitcoin in South Africa for Rands](/trading/buy_btc_with_zar_in_southafrica.md)
 - [How to buy bitcoin in Nigeria with Naira](./trading/buy_btc_with_ngn_in_nigeria.md)
 - [How to buy Bitcoin with Ugandan Shilling(UGX](./trading/buy_btc_ugandan_shilling_ugx.md)
