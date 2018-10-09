@@ -6,16 +6,17 @@
 - [A beginners guide to Golix](./getting_started/beginners_guide.md)
 
 ## Trading
-
+- [Demystifying the buy/sell page](/trading/demistifying_the_buy_sell_page.md)
 - [How to buy bitcoin in South Africa for Rands](/trading/buy_btc_with_zar_in_southafrica.md)
 - [How to buy bitcoin in Nigeria with Naira](./trading/buy_btc_with_ngn_in_nigeria.md)
-- [How to sell bitcoin in Nigeria for Naira](./trading/sell_btc_for_ngn_in_nigeria.md)
-- [Demystifying the buy/sell page](/trading/demistifying_the_buy_sell_page.md)
 - [How to buy Bitcoin with Ugandan Shilling(UGX](./trading/buy_btc_ugandan_shilling_ugx.md)
 - [How to sell bitcoin in South Africa for Rands](./trading/sell_btc_for_southafrican_rand_zar.md)  
 - [How to sell bitcoin in Cameroon for Central African Franc](./trading/sell_btc_xaf_in_cameroon.md)
 - [How to sell bitcoin in Kenya for Kenyan Shilling](./trading/sell_btc_for_kes_in_kenya.md)
-
+- [How to sell bitcoin in Rwanda for Rwandan Franc](./trading/sell_btc_for_rwf_in_rwanda_.md)
+- [How to sell bitcoin in Tanzania for Tanzanian Shilling](./trading/sell_btc_for_tzs_in_tanzania.md)
+- [How to sell bitcoin in Nigeria for Naira](./trading/sell_btc_for_ngn_in_nigeria.md)
+- [How to sell bitcoin in Uganda for Ugandan Shilling](./trading/sell_btc_for_ugx_in_uganda.md)
 
 ## Moving Funds
 
