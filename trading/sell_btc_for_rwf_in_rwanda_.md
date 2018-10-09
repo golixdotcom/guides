@@ -15,7 +15,7 @@ Select the Rwanda  market from the list as below:-
 
 
 ### Step 3
-Click in the buy sell page
+Click on the **Buy/Sell** page
 
 ![
 ](https://lh3.googleusercontent.com/04MUq_1Xi1ym-IHKOOy1c7ZrwmY1KGCxZT16OA_p9w80oVqCn0WdSCJZdx98zwVPFwwfDHEhj3QJ)
@@ -32,7 +32,7 @@ Select the **Sell BTC** form where you need to enter relevant details as illustr
 - **Amount** - The  section is auto- filled  by the system so that you see how much you will get  after selling your BTC.
 -**Sell BTC** - Click  on the button to sell your btc.
 - After selling an order it will  be displayed  on the **Order Book**  and in your account it will be displayed on the **My Pending Orders** and it will attract buyers.
-- Orders are displayed on the book starting with the Best Price at that moment (cheapest).
+- Orders are displayed on the order book starting with the **Best Price** at that moment (cheapest).
 - If you want your BTC to be bought instantly you decide a best price on the market.
 - When a buyer matches your order your Rwandan Franc is automatically  credited into your RWF wallet.
 
