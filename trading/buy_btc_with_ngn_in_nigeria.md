@@ -3,7 +3,9 @@
 # How to buy bitcoin (BTC) with Nigerian Naira (NGN) in Nigeria 
 
 ### Step 1 
-Make sure you have some funds (Nigerian Naira)  in your NGN wallet on Golix. If not kindly follow the Tutorial below on instructions to deposit Nigerian Naira on Golix.
+Make sure you have some funds (Nigerian Naira)  in your NGN wallet on Golix. If not kindly follow the Tutorial below on instructions to deposit Nigerian Naira on Golix. 
+
+[Deposit Naira on Golix](./moving_funds/fiat/depositing_nigerian_naira_ngn.md)
 
 ### Step 2
 Select the Nigeria market from the list as below:-
