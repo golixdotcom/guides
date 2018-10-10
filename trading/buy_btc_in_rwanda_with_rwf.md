@@ -1,5 +1,6 @@
 
 [Home](/)
+
 # How to buy bitcoin in Rwanda with  Rwandan Shilling.
 
 ### Step 1 
