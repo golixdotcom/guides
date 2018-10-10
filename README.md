@@ -8,6 +8,7 @@
 ## Trading
 
 - [Demystifying the buy/sell page](/trading/demistifying_the_buy_sell_page.md)
+- [How to buy  bitcoin in Tanzania  with Tanzanian Shilling](./trading/buy_btc_in_tanzania_with_tzs.md)
 - [How to buy bitcoin in Rwanda with Rwandan Franc](./trading/buy_btc_in_rwanda_with_rwf.md)
 - [How to buy bicoin in Kenya with Kenyan Shilling](.//trading/buy_btc_in_kenya_with_kes.md)
 - [How to buy bitcoin in Cameroon with Central African Franc](./trading/buy_btc_in_cameroon_with_cfx.md)
