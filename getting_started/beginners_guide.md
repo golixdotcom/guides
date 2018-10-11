@@ -16,7 +16,7 @@ Golix is an Afican Crypto exchange with an aim to give every person in Africa  f
  
 In all these countries cryptocurrency can be traded for  fiat that is locally used in those country eg Ugandan Shilling, South African Rands etc. Golix  gained its popularity  by being the biggest cryptocurrency exchange in Africa and when it launched  its successful token sale for the GLX token.
 
-Golix is run by an engineer (CEO) as well as a team oh highly experienced personnel in the cryptocurrency space.
+Golix is run by an engineer (CEO) as well as a team of highly experienced personnel in the cryptocurrency space.
 
 ### Types of Cryptocurrencies on Golix
 
